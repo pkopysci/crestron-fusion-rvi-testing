@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrestronTestingnetf47", "CrestronTestingnetf47.csproj", "{23E56154-438B-42EA-A3F5-22D9DE481023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E56154-438B-42EA-A3F5-22D9DE481023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E56154-438B-42EA-A3F5-22D9DE481023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E56154-438B-42EA-A3F5-22D9DE481023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E56154-438B-42EA-A3F5-22D9DE481023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B4DE4F-0B5C-4C62-BCC4-D481BDD078F1}
+	EndGlobalSection
+EndGlobal
